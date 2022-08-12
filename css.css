@@ -1,0 +1,172 @@
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+.bg-hero {
+  background-image: url('');
+}
+.cover {
+  background-size: cover;
+}
+.h-auto {
+  height: auto;
+}
+.p-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.transparent {
+  background-color: transparent;
+}
+.relative {
+  position: relative;
+}
+.just-start {
+  justify-content: flex-start;
+}
+.w-6 {
+  width: 50%;
+}
+.p-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.x-5 {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+.bor-slate-50 {
+  border-color: rgb(248 250 252);
+}
+.border {
+  border-width: 1px;
+}
+.w-3 {
+  width: 25%;
+}
+.end {
+  justify-content: flex-end;
+}
+.top-36 {
+  margin-top: 9rem;
+}
+.t-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
+.mt-5 {
+  margin-top: 1.25rem;
+}
+.w-5 {
+  width: 41.666667%;
+}
+.rounded-full {
+  border-radius: 9999px;
+}
+.p-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+.p-9 {
+  padding-left: 2.25rem;
+  padding-right: 2.25rem;
+}
+.left-2 {
+  margin-left: 0.5rem;
+}
+.h-10 {
+  height: 2.5rem;
+}
+.w-10 {
+  width: 2.5rem;
+}
+.p-20 {
+  padding-top: 5rem;
+}
+.t-sky {
+  color: deepskyblue;
+}
+.semibold {
+  font-weight: 600;
+}
+.w-1 {
+  width: 50%;
+}
+.left-28 {
+  margin-left: 7rem;
+}
+.lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+.content-center {
+  align-content: center;
+}
+.just-center {
+  justify-content: center;
+}
+.w-4 {
+  width: 33.333333%;
+}
+.base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+.xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+.full {
+  width: 100%;
+}
+.sky {
+  background-color: deepskyblue;
+}
+.x-20 {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+.pad-20 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.between {
+  justify-content: space-between;
+}
+.white {
+  color: white;
+}
+.start {
+  align-content: flex-start;
+}
+.t-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+.medium {
+  font-weight: 500;
+}
+.flex {
+  display: flex;
+}
+.top-14 {
+  margin-top: 3.5rem;
+}
+.top-10 {
+  margin-top: 2.5rem;
+}
+.top-20 {
+  margin-top: 5rem;
+}
+.left-4 {
+  margin-left: 1rem;
+}
+.center {
+  align-items: center;
+}
+.for {
+  width: 1.75rem;
+}
+.for-12 {
+  width: 58.333333%;
+}
+
